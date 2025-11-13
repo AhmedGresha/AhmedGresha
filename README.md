@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gresha</h1>
 <h3 align="center">
-  <a href="https://github.com/AhmedGresha" align="center" text"center" >
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F0FF&background=0F0F0F00&width=600&lines=Full+Stack+.NET+Developer;API+Specialist;Frontend+&+Backend;Team+Player;Mentor" alt="Typing SVG"/>
+  <a href="https://github.com/AhmedGresha" align="center" >
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F0FF&background=0F0F0F00&width=600&lines=Full+Stack+.NET+Developer;API+Specialist;Frontend+&+Backend;Team+Player;Mentor" alt="Typing SVG"/>
   </a>
 </h3>
 
