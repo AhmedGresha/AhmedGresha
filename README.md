@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gresha</h1>
 
-<center>
+<center align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F0FF&background=0F0F0F00&width=800&lines=Full+Stack+.NET+Developer;API+Specialist;Frontend+&+Backend;Team+Player;Mentor" alt="Typing SVG"/>
 </center>
 
