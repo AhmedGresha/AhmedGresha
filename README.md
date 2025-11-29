@@ -29,8 +29,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedGresha&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedGresha&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ahmed19Khaled&show_icons=true&theme=tokyonight" alt="abdalladot99 stats"/>
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ahmed19Khaled&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
@@ -51,9 +52,9 @@
 ---
 
 ### 🌟 Featured Projects
-#### 🧩 [EDRAK Platform](https://github.com/AhmedGresha/EDRAK) > Full educational platform with **ASP.NET Core + MVC + API** using Clean Architecture & JWT Authentication 
-#### 🧮 [Trak ERP System](https://github.com/AhmedGresha/TRAK) > ERP web app managing company resources, modular backend & SQL Server
-#### 🌐 [Portfolio Website](https://github.com/AhmedGresha/Portfolio) > Personal portfolio using React frontend consuming ASP.NET Core API
+#### 🧩 [EDRAK Platform](https://github.com/Ahmed19Khaled/EDRAK) > Full educational platform with **ASP.NET Core + MVC + API** using Clean Architecture & JWT Authentication 
+#### 🧮 [Trak ERP System](https://github.com/Ahmed19Khaled/TRAK) > ERP web app managing company resources, modular backend & SQL Server
+#### 🌐 [Portfolio Website](https://github.com/Ahmed19Khaled/Portfolio) > Personal portfolio using React frontend consuming ASP.NET Core API
 ---
 
 ### 💡 Quote
