@@ -40,7 +40,7 @@
   <a href="www.linkedin.com/in/ahmed-khaled-82548b351" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="engahmedgresha@gmail.com" target="_blank">
+  <a href="mailto:engahmedgresha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/AhmedGresha" target="_blank">
